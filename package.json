@@ -13,7 +13,11 @@
     "precommit": "npm run lint"
   },
   "dependencies": {
-    "nuxt": "^2.0.0"
+    "@nuxtjs/dotenv": "^1.4.0",
+    "firebase": "^6.4.0",
+    "nuxt": "^2.0.0",
+    "stylus": "^0.54.7",
+    "stylus-loader": "^3.0.2"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.1",
